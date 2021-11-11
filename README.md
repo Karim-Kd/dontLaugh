@@ -1,2 +1,2 @@
 # dontLaugh
-Crud asp.net mvc app that let users share jokes 
+Crud asp.net core mvc app that let users share jokes 
